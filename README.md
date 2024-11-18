@@ -8,6 +8,10 @@ menos uma tabela auxiliar de índices, que será usada para localizar intervalos
 sequencial será aplicada. A implementação deve ser feita em linguagem C, e você deve considerar a
 eficiência tanto na criação quanto na consulta dos índices.
 
+## 🎥 Assita o vídeo no YouTube
+<a href="https://youtu.be/g_2yFjV_014)" title="Assista agora"> 📕Clique aqui para assistir</a>
+
+
 ## 📚 Busca Sequencial Indexada
 
 A busca sequencial indexada é uma variação da busca sequencial usada para localizar elementos em um conjunto de dados, combinando aspectos de pesquisa linear com o uso de índices que aceleram o processo. A sua implementação se divide nos seguintes passos: 
