@@ -1,1 +1,1 @@
-# Buscas-Sequencial-Indexada
+# Busca-Sequencial-Indexada
